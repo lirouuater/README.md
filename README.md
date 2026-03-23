@@ -1,7 +1,6 @@
 
 # 💫 About Me:
-💻-I am currently pursuing a Bachelor's degree in Information Technology at Univesp and am studying and using JavaScript, Node.js, Express.
-
+💻-I am currently pursuing a Bachelor's degree in Information Technology at Univesp and am studying and using JavaScript, Node.js, Express and outras cositas.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lirouuater/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-andré-paes-de-almeida-39510532a/) 
